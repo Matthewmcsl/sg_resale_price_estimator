@@ -4,7 +4,10 @@ Practice on an end-to-end deployment of a Regression-based predictive model.
 ## Setup Instructions
 1. Activate bash script to setup ML project structure
    - navigate to project folder
-   - run ../project_setup.sh
+   - Run the following command: 
+     ```bash
+	 ../project_setup.sh
+     ```
 
 2. Create virtual environment 
    ```bash
