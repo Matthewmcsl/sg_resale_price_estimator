@@ -1,0 +1,22 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.env
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# Misc
+.DS_Store
+venv/
