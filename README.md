@@ -1,4 +1,4 @@
-# sg_resale_price_estimator
+# Singapore Resale HDB Price Predictor
 Practice on an end-to-end deployment of a Regression-based predictive model.
 
 ## Setup Instructions
