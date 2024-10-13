@@ -35,8 +35,8 @@ Practice on an end-to-end deployment of a Regression-based predictive model.
      poetry shell
      ```
 
-6. **Run your application or scripts**
-   - Now you can start developing your scripts or run your application.
+6. **Run application or scripts, still work in progress here.**
+   - To update in the future..
 
 
 
