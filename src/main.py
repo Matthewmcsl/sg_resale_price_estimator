@@ -1,6 +1,7 @@
 # src/main.py
 
-from data.dataloader import load_config, load_data_from_api
+from data.dataloader import load_data_from_api
+from config import load_config
 
 
 def main():
