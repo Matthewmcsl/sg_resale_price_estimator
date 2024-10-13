@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sg-resale-price-estimator"
+version = "0.1.0"
+description = "End to end project showcase MLOps implementation."
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
